@@ -21,7 +21,7 @@
 ### **2** - *Maior número*
 > *Leia 10 números e informe qual é o maior valor armazenado no array.*
 
-###**3** - *Média de valores*
+### **3** - *Média de valores*
 > *Leia 8 números reais, armazene em um array e calcule a média.*
 
 ### **4** - *Contar pares*
@@ -48,6 +48,10 @@
 # ✅ Gabarito Oficial ( Código Fonte ):
 
 > [**Clique aqui para ACESSAR o GABARITO**]() 
+
+---
+> Desenvolvido por: *Leonardo Coimbra*
+>> Data de Criação: 20/03/2026
 
 
 
