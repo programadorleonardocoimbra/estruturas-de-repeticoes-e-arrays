@@ -45,6 +45,7 @@
 ### **10** - *Frequência de número*
 > *Leia 10 números e depois um número qualquer. Mostre quantas vezes ele aparece no array.*
 
+---
 # ✅ Gabarito Oficial ( Código Fonte ):
 
 > [**Clique aqui para ACESSAR o GABARITO**]() 
