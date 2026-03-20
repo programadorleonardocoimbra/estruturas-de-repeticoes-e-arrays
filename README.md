@@ -15,34 +15,34 @@
 
 ## Segue Exercícios propostos abaixo, GABARITO AO FINAL:
 
-**1** - **Soma de elementos**
+### **1** - *Soma de elementos*
 > *Crie um programa que leia 5 números inteiros, armazene em um array e mostre a soma total.*
 
-**2** - **Maior número**
+### **2** - *Maior número*
 > *Leia 10 números e informe qual é o maior valor armazenado no array.*
 
-**3** - **Média de valores**
+###**3** - *Média de valores*
 > *Leia 8 números reais, armazene em um array e calcule a média.*
 
-**4** - **Contar pares**
+### **4** - *Contar pares*
 > *Leia 10 números inteiros e conte quantos deles são pares.*
 
-**5** - **Inverter array**
+### **5** - *Inverter array*
 > *Leia 6 números e exiba o array em ordem inversa.*
 
-**6** - **Buscar número**
+### **6** - *Buscar número*
 > *Leia 10 números e depois um número específico. Verifique se ele está no array.*
 
-**7** - **Multiplicar elementos**
+### **7** - *Multiplicar elementos*
 > *Leia 5 números e multiplique todos por 2, mostrando o novo array.*
 
-**8** - **Soma dos índices pares**
+### **8** - *Soma dos índices pares*
 > *Leia 10 números e some apenas os valores que estão em índices pares (0, 2, 4...).*
 
-**9** - **Comparar arrays**
+### **9** - *Comparar arrays*
 > *CLeia dois arrays de 5 posições e verifique se eles são iguais.*
 
-**10** - **Frequência de número**
+### **10** - *Frequência de número*
 > *Leia 10 números e depois um número qualquer. Mostre quantas vezes ele aparece no array.*
 
 # ✅ Gabarito Oficial ( Código Fonte ):
