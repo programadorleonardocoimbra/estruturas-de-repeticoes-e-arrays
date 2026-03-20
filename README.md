@@ -48,7 +48,9 @@
 ---
 # ✅ Gabarito Oficial ( Código Fonte ):
 
-> [**Clique aqui para ACESSAR o GABARITO**]() 
+> [**Clique aqui para ACESSAR o GABARITO**](https://github.com/programadorleonardocoimbra/estruturas-de-repeticoes-e-arrays/tree/main/GabaritoOficial) 
+
+# BOA SORTE A TODOS!
 
 ---
 > Desenvolvido por: *Leonardo Coimbra*
