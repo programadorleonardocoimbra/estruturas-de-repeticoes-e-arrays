@@ -1,3 +1,4 @@
+<img width="827" height="327" alt="Image" src="https://github.com/user-attachments/assets/7d107e24-0341-4f6a-a16c-cfebf6f0ab9f" />
 
 # 📘 Exercícios de Java: Estruturas de Repetição e Arrays
 
@@ -51,7 +52,8 @@
 > [**Clique aqui para ACESSAR o GABARITO**](https://github.com/programadorleonardocoimbra/estruturas-de-repeticoes-e-arrays/tree/main/GabaritoOficial) 
 
 # BOA SORTE A TODOS!
-
+---
+---
 ---
 > Desenvolvido por: *Leonardo Coimbra*
 >> Data de Criação: 20/03/2026
